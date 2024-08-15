@@ -8,7 +8,7 @@ Responsive Design: The gallery is designed to work on various screen sizes. Inte
 
 ## Demo
 
-Check out the live demo of the gallery here. https://www.linkedin.com/posts/muskan-praween-6a98b1317_internship-project-image-gallery-creation-activity-7229489166269505536-khMk?utm_source=share&utm_medium=member_desktop
+Check out the live demo of the gallery here. 
 
 ## **Usage**
 
@@ -16,7 +16,7 @@ To use this gallery in your project:
 
 ## **Clone the repository:**
 
-bash Copy code git clone https://github.com/muskan574/gallery.git Navigate to the project directory:
+bash Copy code git clone https://github.com/rudranshsingh228/gallery.git Navigate to the project directory:
 
 bash Copy code cd gallery Open the index.html file in your browser to view the gallery.
 
@@ -28,4 +28,4 @@ Replace the images in the images/ directory with your own images. Modify the ind
 
 ## **Credits**
 
-Created by: Muskan praween
+Created by: Rudransh singh gaur
